@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.pyo
+*.pyd
+.venv/
+venv/
+ENV/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project generated artifacts
+resultados/
+*.keras
+*.png
+*.jpg
+resultados/*.jpeg
+*.log
+
+# Local datasets / large files
+# mantido no GitHub quando necessário
+# dados/
+# data/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
